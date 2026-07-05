@@ -27,11 +27,10 @@
       "award": "",
       "links": { "pdf": "https://ieeexplore.ieee.org/document/10420683" }
     },
-   
     {
       "title": "UNet-MSMamba: DINOv3 Meets Multi-Scale Mamba for Remote Sensing Image Segmentation",
       "thumbnail": "images/thumbs/2.jpg",
-      "authors": ["Abdullah Al Bary Voban*"],
+      "authors": ["Abdullah Al Bary Voban"],
       "venue": "Prepared for Submission",
       "selected": 0,
       "award": "",
