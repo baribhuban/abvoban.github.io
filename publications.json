@@ -27,19 +27,11 @@
       "award": "",
       "links": { "pdf": "https://ieeexplore.ieee.org/document/10420683" }
     },
-    {
-      "title": "FreCaM: Frequency-Guided Adaptation with Cascade Mamba Decoding for Remote Sensing Segmentation",
-      "thumbnail": "images/thumbs/2.jpg",
-      "authors": ["Md Sohag Mia", "Abdullah Al Bary Voban", "Muhammad Abdullah Adnan"],
-      "venue": "Submitted to WACV 2027",
-      "selected": 1,
-      "award": "",
-      "links": { "pdf": "#" }
-    },
+   
     {
       "title": "UNet-MSMamba: DINOv3 Meets Multi-Scale Mamba for Remote Sensing Image Segmentation",
       "thumbnail": "images/thumbs/2.jpg",
-      "authors": ["Abdullah Al Bary Voban"],
+      "authors": ["Abdullah Al Bary Voban*"],
       "venue": "Prepared for Submission",
       "selected": 0,
       "award": "",
